@@ -1,0 +1,141 @@
+
+//signup
+"name Empty" = "Please enter name.";
+
+"name minimum length" = "Name must be 3 characters long,";
+
+"screen name Empty" = "Please enter Screen Name.";
+
+"screen name minimum length" = "Screen name must be 3 characters long.";
+
+"email empty" = "Please enter email address.";
+
+"confirm email empty" = "Please confirm your email address.";
+
+"email confirm email does not match" = "Email address and confirm Email address must be same.";
+
+"password empty" = "Please enter password.";
+
+"confirm password empty" = "Please enter confirm password.";
+
+"password length" = "Password must be minimum 6 characters.";
+
+"empty date" = "Please select Date of Birth.";
+
+"allow location" = "Please allow User to access your location.";
+
+"invalid email" = "Please enter valid email address";
+
+
+"otp empty" = "Please enter an otp.";
+
+//Reset password
+"password match" = "New password and Confirm password do not match.";
+
+"new password empty" = "Please enter new password.";
+
+"old password empty" = "Please enter old password.";
+
+// Sharing Screen
+
+"add description" = "Please add description.";
+
+"share with" = "Please select a comunity you wan't to share";
+
+"select friends for group" = "Please select a friend.";
+
+"select a friend" = "Please select a friend.";
+
+//Internet connectivity
+
+"internet connection" = "Please check your Internet Connection.";
+
+//Select country
+"can not remove all" = "You cannot clear All, Please clear all excluded country first";
+
+//under development
+
+"under development" = "This functionality is under development.";
+
+//Document Upload Strings
+//=========================/////=== DOC UPLOAD // =====
+
+//GET VERIFIED
+"become verified broadcaster" = "Become a verified broadcaster to earn tokens from your viewers by signing.";
+
+"download from dropbox" = "You can upload a your document through Dropbox";
+
+"getverified 1.1" = "1. To become a verified user you must 18 years of age or older and submit and complete all requirements.";
+
+"getverified 1.2" = "2. You (the \"Broadcaster\") must complete the Broadcaster Agreement for your account.";
+
+"getverified 1.3" = "3. Submit a clear photo/scan Front and Back of a valid government-issued identification (ID). ID's must include the following information: Complete Name (Required as entered in the Broadcaster Agreement), Date  of Birth, Expiration Date, Issued Date, Photo ID (Required) and Government/Government Agency that Issued the ID (We do not accept hand written ID's, obstructed ID's or altered ID's).";
+
+"getverified 1.4" = "4. You must submit a clear photo of yourself holding the government issued ID next to your face (closeup photo with main text of ID readable).";
+
+"getverified 2.1" = "1. US Citizens or US Residents (W-9)";
+
+"getverified 2.2" = "2. Non US Citizens or Non US Residents (W-8)";
+
+
+//UPLOAD ID PROOF
+
+"upload id proof header" = "To become a verified user you must 18 years of age or older and submit and complete all requirements.";
+
+"upload id proof header 1.1" = "(a). Attach your ID proof's front side here.";
+
+"upload id proof header 1.2" = "(b). Attach your ID proof's back side here.";
+
+"upload id proof header 2.1" = "1. We do not accept paper or handwritten ID's, ID's that have been obstructed, or ID's that have been altered.";
+
+"upload id proof header 2.2" = " If your ID is expired or about to expire , you must upload a new ID before its expiration date to avoid having any problems with your account.";
+
+"upload id proof header 2.3" = "3. Please note that if anyone else wants to appear on your Broadcast account that receives Tokens, they must first upload the above identification and complete the Broadcaster agreement on your account.";
+
+"upload id proof header 2.4" = "4. Not complying complete Broadcast agreements for everyone appearing on your Broadcast account that receives tokens will result in you losing your ability to receive tokens and possibly be banned to Broadcast.";
+
+
+//TAX DOCUMENTS
+
+
+"tax documents 1.1" = "Make sure after completing all applicable parts of the form to sign and date the form in BLUE ink.\nIf you are electing/certifying a reduced rate of tax withholding based on a tax treaty via Form W-8, you should ensure that you have entered the full unabbreviated name of the country that you are claiming tax treaty benefit under ñ on Form W-8. Abbreviations of country names will make the form invalid.\n\nYou should ensure that you have not used a Post Office Box or Care Of Address in the Permanent Address fields.\n\nYou should ensure you are using the most recent version of the Form W-8 released by the IRS.\nWhen you are ready to provide your completed and signed Form W-8 kindly send it to us via scanned or clear unobstructed photo via \"email\"\nIf you have any questions, please \"email\" us. We are available Monday through Friday from 8:00 a.m. to 8:00 p.m. Eastern Time";
+
+"tax documents US" = "The W-9 form is used to certify to Live Time that your tax identification number is correct, if you are an exempt payee or exempt from federal backup withholding, and that you are a U.S. citizen or U.S. resident.";
+
+
+"tax documents non US" = "If you are not a U.S. citizen or U.S. resident, you should instead complete Form W-8. If you are unsure if you are a U.S. resident, then you should contact a tax advisor to discuss your situation.  Income that you earn from U.S. sources, is subject to U.S. tax. Income of this U.S. source paid to a foreign person is taxed at a rate of 30%, in general. If you, the foreign recipient of the income, are a resident of a country that the U.S. has a tax treaty with then you may be eligible for a reduced rate of tax withholding. You may also be eligible for a reduced rate of withholding based on your status as a tax exempt organization or foreign government. To certify any reduced rate of, or exemption from, tax withholding you must complete and return a signed Form W-8 as indicated above.";
+
+
+// broadcaster aggrement
+
+"broadcaster 1.1" = "(a) You (the \"Broadcaster\") must complete the Broadcaster Agreement for your account.";
+
+"verification incomplete" = "Please upload all your documents to get verified.";
+
+"documents not submited" = "Please upload your documents to proceed.";
+
+"pending approval" = "Please wait for the documents approval.";
+
+"name empty" = "Please enter name.";
+
+"phone empty" = "Please enter phone number";
+
+"accounr number empty" = "please enter account number.";
+
+"empty verify account number empty" = "Please verify your account number.";
+
+"empty bank name" = "Please enter bank name.";
+
+"empty bank location" = "Please select bank location";
+"empty country" = "Please enter country.";
+"empty state" = "Please enter state.";
+"empty city" = "Please enter city";
+
+
+"old pass new pass not same" = "Old password and new password can not be same.";
+
+"authorize whozout" = "Please allow User to initiate payments to the accounts";
+
+"stream stop due to internet" = "Your internet connection is too slow to broadcast.";
+
+"no saved image" = "No saved images, please download from other user profile";

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16B2659" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="WLEmogies" representedClassName="WLEmogies" syncable="YES">
+        <attribute name="category" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dimension" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emogiId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="smileyIds" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="smileyType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="version" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="WLImageComments" representedClassName="ImageComment" syncable="YES" codeGenerationType="class">
+        <attribute name="comment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="commentId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="commentType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateCreated" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="WLEmogies" positionX="-63" positionY="27" width="128" height="165"/>
+        <element name="WLImageComments" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>
